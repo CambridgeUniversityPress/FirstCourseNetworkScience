@@ -1,9 +1,16 @@
+'''
+Simulation class for Chapter 7 Tutorial of Intro Network Science book
+
+Copyright 2018 Clayton A Davis and Cambridge University Press
+'''
+
 from collections import Counter
 from operator import itemgetter
 
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 import networkx as nx
+
 
 class Simulation:
     '''Simulate state transitions on a network'''
