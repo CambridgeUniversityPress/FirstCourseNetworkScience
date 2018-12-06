@@ -47,11 +47,7 @@ Networks pervade all aspects of our lives: networks of friends, communication, c
 
 Appendix A - Python Tutorial
 
-Appendix B - NetworkX Tutorial
-
-Appendix C - NetLogo
-
-Appendix D - Online Social Networks
+Appendix B - NetLogo
 
 References
 
