@@ -1,7 +1,7 @@
 '''
 Simulation class for Chapter 7 Tutorial of Intro Network Science book
 
-Copyright 2018 Clayton A Davis and Cambridge University Press
+Copyright 2018 Indiana University and Cambridge University Press
 '''
 
 from collections import Counter
