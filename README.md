@@ -37,9 +37,7 @@ Networks pervade all aspects of our lives: networks of friends, communication, c
 
 3. Hubs
 
-4. Direction
-
-5. Weights
+4. Direction & Weights
 
 6. Network Models
 
