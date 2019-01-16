@@ -31,7 +31,9 @@ Networks pervade all aspects of our lives: networks of friends, communication, c
 
 ## Table of Contents
 
-1. Introduction
+0. Introduction
+
+1. Basic Elements
 
 2. Small Worlds
 
