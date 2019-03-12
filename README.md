@@ -1,4 +1,4 @@
-# Introductory Network Science: A Hands-On Approach
+# A First Course in Network Science
 
 **Edition:** 1
 
