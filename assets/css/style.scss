@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
+.page-header {
+  background-image: url("assets/cover.jpg")
+}
