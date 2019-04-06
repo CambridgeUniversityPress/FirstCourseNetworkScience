@@ -8,9 +8,9 @@
 
 ## Authors
 
-* Filippo Menczer, Indiana University, Bloomington
-* Santo Fortunato, Indiana University, Bloomington
-* Clayton A. Davis, Indiana University, Bloomington
+* [Filippo Menczer](https://cnets.indiana.edu/fil/), Indiana University, Bloomington
+* [Santo Fortunato](https://cnets.indiana.edu/people/santo-fortunato/), Indiana University, Bloomington
+* [Clayton A. Davis](https://www.clayadavis.net/), Indiana University, Bloomington
 
 ## Level
 
@@ -33,21 +33,21 @@ Networks pervade all aspects of our lives: networks of friends, communication, c
 
 0. Introduction
 
-1. Basic Elements
+1. Basic Elements ([Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/Chapter%201%20Tutorial.ipynb))
 
-2. Small Worlds
+2. Small Worlds ([Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/Chapter%202%20Tutorial.ipynb))
 
-3. Hubs
+3. Hubs ([Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/Chapter%203%20Tutorial.ipynb))
 
-4. Direction & Weights
+4. Direction & Weights ([Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/Chapter%204%20Tutorial.ipynb))
 
-6. Network Models
+5. Network Models ([Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/Chapter%205%20Tutorial.ipynb))
 
-7. Communities
+6. Communities ([Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/Chapter%206%20Tutorial.ipynb))
 
-8. Dynamics
+7. Dynamics ([Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/Chapter%207%20Tutorial.ipynb))
 
-Appendix A - Python Tutorial
+Appendix A - [Python Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/Appendix%20-%20Python%20Tutorial.ipynb)
 
 Appendix B - NetLogo
 
