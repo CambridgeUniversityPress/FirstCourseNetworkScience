@@ -12,18 +12,3 @@ Sources:
 * http://www.cs.cmu.edu/~enron/
 * Jérôme Kunegis. KONECT – The Koblenz Network Collection. In Proc. Int. Conf. on World Wide Web Companion, pages 1343–1350, 2013. doi:10.1145/2487788.2488173
 * B. Klimmt, Y. Yang. Introducing the Enron corpus. In Proc. Eur. Conf. on Mach. Learn., pages 217–226, 2004.
-
-
-@inproceedings{konect,
-	title = {{KONECT} -- {The} {Koblenz} {Network} {Collection}},
-	author = {Jérôme Kunegis},
-	year = {2013},
-	booktitle = {Proc. Int. Conf. on World Wide Web Companion},
-	pages = {1343--1350},
-	url = {http://dl.acm.org/citation.cfm?id=2488173},
-	url_presentation = {https://www.slideshare.net/kunegis/presentationwow},
-	url_web = {http://konect.cc/},
-	url_citations = {https://scholar.google.com/scholar?cites=7174338004474749050},
-}
-
-
