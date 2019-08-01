@@ -1,10 +1,10 @@
 Enron network
 =============
 
-This directory contains the TSV and related files of the enron network: The 
-The Enron email network consists of 1,148,072 emails sent between employees of Enron between 1999 and 2003. Nodes in the network are individual employees and edges are individual emails.  Edges are directed and weighted. The direction is from the sender to the receiver and the weight represents the number of messages. It is possible to send an email to oneself, and thus this network contains loops. 
+This directory contains the edges file of the Enron email network. 
+The network consists of 1,148,072 emails sent between employees of Enron between 1999 and 2003. Nodes in the network are individual employees and edges are individual emails.  Edges are directed and weighted. The direction is from the sender to the receiver and the weight represents the number of messages. It is possible to send an email to oneself, and thus this network contains loops. 
 
-The edges files contains three columns: senderID, receiverID, and weight.
+The edges file contains three columns: senderID, receiverID, and weight.
 
 Sources:
 
