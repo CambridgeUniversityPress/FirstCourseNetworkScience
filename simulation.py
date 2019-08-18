@@ -41,12 +41,19 @@ class Simulation:
         self.name = name or 'Simulation'
 
         self._states = []
-        self._state_index = {}
+        self._value_index = {}
         self._cmap = plt.cm.get_cmap('tab10')
 
         self._initialize()
 
         self._pos = nx.layout.spring_layout(G)
+
+    def _append_state(self, state):
+        self._states.append(state)
+        # Update self._value_index
+        for value in set(state.values()):
+            if value not in self._value_index:
+                self._value_index[value] = len(self._value_index)
 
     def _initialize(self):
         if self._initial_state:
@@ -59,7 +66,7 @@ class Simulation:
         if not all(self.G.nodes[n].get('state') for n in self.G.nodes):
             raise ValueError('All nodes must have an initial state')
 
-        self._states.append(state)
+        self._append_state(state)
 
     def _step(self):
         # We're choosing to use the node attributes as the source of truth.
@@ -68,10 +75,10 @@ class Simulation:
         new_state = self._state_transition(self.G, state)
         state.update(new_state)
         nx.set_node_attributes(self.G, state, 'state')
-        self._states.append(state)
+        self._append_state(state)
 
     def _categorical_color(self, value):
-        index = self._state_index.setdefault(value, len(self._state_index))
+        index = self._value_index[value]
         node_color = self._cmap(index)
         return node_color
 
@@ -117,7 +124,7 @@ class Simulation:
         nx.draw(self.G, pos=self._pos, node_color=node_colors, **kwargs)
 
         if labels is None:
-            labels = sorted(set(state.values()), key=self._state_index.get)
+            labels = sorted(set(state.values()), key=self._value_index.get)
         patches = [mpl.patches.Patch(color=self._categorical_color(l), label=l)
                    for l in labels]
         plt.legend(handles=patches)
@@ -150,7 +157,8 @@ class Simulation:
         x_range = range(min_step or 0, max_step or len(self._states))
         counts = [Counter(s.values()) for s in self._states[min_step:max_step]]
         if labels is None:
-            labels = sorted(self._state_index, key=self._state_index.get)
+            labels = {k for count in counts for k in count}
+            labels = sorted(labels, key=self._value_index.get)
 
         for label in labels:
             series = [count.get(label, 0) / sum(count.values()) for count in counts]
