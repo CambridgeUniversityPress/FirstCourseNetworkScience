@@ -63,7 +63,7 @@ class Simulation:
                 state = self._initial_state
             nx.set_node_attributes(self.G, state, 'state')
 
-        if not all(self.G.nodes[n].get('state') for n in self.G.nodes):
+        if any(self.G.nodes[n].get('state') is None for n in self.G.nodes):
             raise ValueError('All nodes must have an initial state')
 
         self._append_state(state)
