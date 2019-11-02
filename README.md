@@ -6,10 +6,12 @@
 
 **ISBN:** 9781108471138
 
+**Buy:** [Amazon](https://www.amazon.com/First-Course-Network-Science/dp/1108471137/) | [Cambridge University Press](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science)
+
 ## Authors
 
-* [Filippo Menczer](https://cnets.indiana.edu/fil/), Indiana University, Bloomington
-* [Santo Fortunato](https://cnets.indiana.edu/people/santo-fortunato/), Indiana University, Bloomington
+* [Filippo Menczer](https://about.me/fil.m), Indiana University, Bloomington
+* [Santo Fortunato](https://sites.google.com/view/santofortunato/), Indiana University, Bloomington
 * [Clayton A. Davis](https://www.clayadavis.net/), Indiana University, Bloomington
 
 ## Level
@@ -61,4 +63,4 @@ Index
 
 * [Solutions to selected exercises](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/Selected_Exercise_Solutions.pdf)
 
-* Lecture slide decks and solutions to *all* exercises can be found on the [textbook website for instructors](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science?format=HB#resources)
+* Lecture slide decks and solutions to **all** exercises can be found on the [textbook website for instructors](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science?format=HB#resources)
