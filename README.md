@@ -57,4 +57,8 @@ Index
 
 ## Additional Teaching Resources 
 
-Lecture slide decks and solutions to all exercises can be found on the [textbook website for instructors](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science?format=HB#resources)
+* [Dataset files](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/tree/master/datasets)
+
+* [Solutions to selected exercises](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/Selected_Exercise_Solutions.pdf)
+
+* Lecture slide decks and solutions to *all* exercises can be found on the [textbook website for instructors](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science?format=HB#resources)
