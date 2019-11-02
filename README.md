@@ -2,7 +2,7 @@
 
 **Edition:** 1
 
-**Publication year:** 2019
+**Publication year:** 2020
 
 **ISBN:** 9781108471138
 
@@ -17,7 +17,7 @@
 - Undergraduate
 - Graduate
 
-## Subject areas
+## Subject Areas
 - network science
 - complexity
 - statistical physics
@@ -55,4 +55,6 @@ References
 
 Index
 
-Additional teaching resources (lecture slide decks and solutions to all exercises) can be found on the [textbook website for instructors](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science?format=HB#resources)
+## Additional Teaching Resources 
+
+Lecture slide decks and solutions to all exercises can be found on the [textbook website for instructors](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science?format=HB#resources)
