@@ -33,24 +33,26 @@ Networks pervade all aspects of our lives: networks of friends, communication, c
 
 0. Introduction
 
-1. Basic Elements ([Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/Chapter%201%20Tutorial.ipynb))
+1. Basic Elements ([Chapter 1 Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%201%20Tutorial.ipynb))
 
-2. Small Worlds ([Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/Chapter%202%20Tutorial.ipynb))
+2. Small Worlds ([Chapter 2 Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%202%20Tutorial.ipynb))
 
-3. Hubs ([Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/Chapter%203%20Tutorial.ipynb))
+3. Hubs ([Chapter 3 Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%203%20Tutorial.ipynb))
 
-4. Direction & Weights ([Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/Chapter%204%20Tutorial.ipynb))
+4. Direction & Weights ([Chapter 4 Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%204%20Tutorial.ipynb))
 
-5. Network Models ([Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/Chapter%205%20Tutorial.ipynb))
+5. Network Models ([Chapter 5 Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%205%20Tutorial.ipynb))
 
-6. Communities ([Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/Chapter%206%20Tutorial.ipynb))
+6. Communities ([Chapter 6 Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%206%20Tutorial.ipynb))
 
-7. Dynamics ([Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/Chapter%207%20Tutorial.ipynb))
+7. Dynamics ([Chapter 7 Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%207%20Tutorial.ipynb))
 
-Appendix A - [Python Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/Appendix%20-%20Python%20Tutorial.ipynb)
+Appendix A - [Python Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Appendix%20-%20Python%20Tutorial.ipynb)
 
 Appendix B - NetLogo
 
 References
 
 Index
+
+Additional teaching resources (lecture slide decks and solutions to all exercises) can be found on the [textbook website for instructors](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science?format=HB#resources)
