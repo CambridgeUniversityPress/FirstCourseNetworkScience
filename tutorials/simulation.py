@@ -35,11 +35,18 @@ class Simulation:
                 and returns a dictionary of updated node states. The keys in
                 this dict should be node names and the values the corresponding
                 updated node state.
+            stop_condition (optional): function with signature
+                `stop_condition(G, current_state)` that accepts two arguments,
+                the Graph and a dictionary of current node states, and returns
+                True if the simulation should be stopped at its current state.
+
+        Keyword Args:
+            name (optional): a string used in titles of plots and drawings.
 
         Raises:
             ValueError: if not all graph nodes have an initial state.
         '''
-        self.G = G
+        self.G = G.copy()
         self._initial_state = initial_state
         self._state_transition = state_transition
         self._stop_condition = stop_condition
@@ -143,10 +150,12 @@ class Simulation:
         if step == -1:
             step = self.steps
         if step == 0:
-            step_text = 'initial state'
+            title = 'initial state'
         else:
-            step_text = 'at step %i' % (step)
-        plt.title('{} {}'.format(self.name, step_text))
+            title = 'step %i' % (step)
+        if self.name:
+            title = '{}: {}'.format(self.name, title)
+        plt.title(title)
 
     def plot(self, min_step=None, max_step=None, labels=None, **kwargs):
         '''
@@ -175,7 +184,10 @@ class Simulation:
             series = [count.get(label, 0) / sum(count.values()) for count in counts]
             plt.plot(x_range, series, label=label, **kwargs)
 
-        plt.title('%s node state proportions' % self.name)
+        title = 'node state proportions'
+        if self.name:
+            title = '{}: {}'.format(self.name, title)
+        plt.title(title)
         plt.xlabel('Simulation step')
         plt.ylabel('Proportion of nodes')
         plt.legend()
