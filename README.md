@@ -35,13 +35,13 @@ Networks pervade all aspects of our lives: networks of friends, communication, c
 
 0. Introduction
 
-1. Basic Elements ([Chapter 1 Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%201%20Tutorial.ipynb))
+1. [Basic Elements](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/sample/chapters/chapter0.pdf) ([Chapter 1 Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%201%20Tutorial.ipynb))
 
 2. Small Worlds ([Chapter 2 Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%202%20Tutorial.ipynb))
 
 3. Hubs ([Chapter 3 Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%203%20Tutorial.ipynb))
 
-4. Direction & Weights ([Chapter 4 Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%204%20Tutorial.ipynb))
+4. [Direction & Weights](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/sample/chapters/chapter4.pdf) ([Chapter 4 Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%204%20Tutorial.ipynb))
 
 5. Network Models ([Chapter 5 Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%205%20Tutorial.ipynb))
 
@@ -77,6 +77,6 @@ Be warned: each cloud-based notebook service has [pros and cons](https://www.dat
 
 * [Dataset files](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/tree/master/datasets)
 
-* [Solutions to selected exercises](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/Selected_Exercise_Solutions.pdf)
+* [Solutions to selected exercises](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/sample/Selected_Exercise_Solutions.pdf) (solutions to **all** exercises can be found on the [textbook website for instructors](https://www.cambridge.org/academic/subjects/physics/statistical-physics/first-course-network-science#resources))
 
-* Lecture slide decks and solutions to **all** exercises can be found on the [textbook website for instructors](https://www.cambridge.org/academic/subjects/physics/statistical-physics/first-course-network-science#resources)
+* [Sample slides](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/tree/master/sample/slides) (lecture slide decks for **all** chapters can be found on the [textbook website for instructors](https://www.cambridge.org/academic/subjects/physics/statistical-physics/first-course-network-science#resources))
