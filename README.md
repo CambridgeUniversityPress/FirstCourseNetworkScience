@@ -24,6 +24,14 @@
 - complexity
 - statistical physics
 - social networks
+- computer science
+- information science
+- brain science 
+- political science
+- communication
+- management
+- mathematics
+- health
 - financial networks
 - biological networks
 
@@ -49,7 +57,7 @@ Networks pervade all aspects of our lives: networks of friends, communication, c
 
 --Guido Caldarelli, Professor of Theoretical Physics, Scuola IMT Alti Studi Lucca
 
-> The book by Menczer, Fortunato, and Davis, A First Course in Network Science, is an amazing tour de force in bringing network science concepts to the layman. It is an extraordinary book with which to start thinking about networks that nowadays represent the linchpins of our world. 
+> The book by Menczer, Fortunato, and Davis, *A First Course in Network Science*, is an amazing tour de force in bringing network science concepts to the layman. It is an extraordinary book with which to start thinking about networks that nowadays represent the linchpins of our world. 
 
 --Alex Arenas, Professor of Computer Science and Mathematics, Universidad Rovira i Virgili
 
