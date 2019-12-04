@@ -31,6 +31,36 @@
 
 Networks pervade all aspects of our lives: networks of friends, communication, computers, the Web, and transportation are examples we experience daily, while networks in our brain and cells determine our very survival. The network is a general yet powerful way to represent and study simple and complex relationships. Today, a basic understanding of network processes is required in job sectors from marketing to technology, from management to design, and from biology to the arts and humanities. This textbook is designed to introduces networks to a broad audience of undergraduate students from informatics, business, computer science and engineering, information science, biology, physics, statistics, and social sciences. After surveying networks in many areas, the book talks about the properties of social networks and the key role of hubs. Directed and weighted networks are discussed using the Web and the spread of information and misinformation in social media as case studies. The final chapters cover the more advanced topics of networks models, communities, and dynamics. No technical mathematical or programming background is required, making the book feasible for introductory courses at any level, including network literacy and programming literacy courses. However, the book includes optional technical sections for more advanced students. Programming tutorials, exercises, and datasets allow readers to gain and test their understanding through hands-on activities for building and analyzing networks. 
 
+## Reviews & Endorsements
+
+> This is a book that truly takes in hand students from all backgrounds to discover the power of network science. It guides the readers through the basic concepts needed to enter the field, while providing at the same time the necessary programming rudiments and tools. Rigorous, albeit very accessible, this book is the ideal starting point for any student fascinated by the emerging field of network science. 
+
+--Alessandro Vespignani, Sternberg Distinguished Professor of Physics, Health, and Computer Sciences, Northeastern University
+
+> We cannot make sense of the world without learning about networks. This comprehensive and yet accessible text is an essential resource for all interested in mastering the basics of network science. Indispensable for undergraduate and graduate education, the book is also a much-needed primer for researchers across the many disciplines where networks are on the rise. 
+
+--Olaf Sporns, Distinguished Professor of Psychological and Brain Sciences, Indiana University
+
+> Buckle up! This book bounds ahead of the curve in teaching network science. Without formalism, but with remarkable clarity and insight, the authors use experiential learning to animate concepts, captivate students, and deliver skills for analyzing and simulating network data. This book will not only make students smarter, they will feel and act smarter. 
+
+--Brian Uzzi, Thomas Professor of Management, Northwestern University
+
+> This is a timely book that comes from authorities in the field of Complex Networks. The book is very well written and represents the state of the art of research in the field. For these reasons, it represents both a reference guide for experts and a great textbook for the students. 
+
+--Guido Caldarelli, Professor of Theoretical Physics, Scuola IMT Alti Studi Lucca
+
+> The book by Menczer, Fortunato, and Davis, A First Course in Network Science, is an amazing tour de force in bringing network science concepts to the layman. It is an extraordinary book with which to start thinking about networks that nowadays represent the linchpins of our world. 
+
+--Alex Arenas, Professor of Computer Science and Mathematics, Universidad Rovira i Virgili
+
+> Should be titled the "Joy of Networks," clearly conveys the fun and power of the science of networks, while providing extensive hands-on exercises with network data. 
+
+--David Lazer, University Distinguished Professor of Political Science and Computer and Information Science, Northeastern University
+
+> If you are looking for a sophisticated yet introductory book on network analysis from a network science perspective, look no further. This is an excellent introduction that is also eminently practical, integrating exactly the right set of tools. I highly recommend it.
+
+--Stephen Borgatti, Shellgren Chair of Management of Strategy, University of Kentucky
+
 ## Table of Contents
 
 0. Introduction
