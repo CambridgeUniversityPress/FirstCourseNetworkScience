@@ -97,19 +97,19 @@ Index
 
 ## A Note about Python, Tutorials, and Jupyter Notebooks
 
-Our tutorials use Python and NetworkX. They are in the form of Jupyter Notebooks. To load, view, and run these tutorials, you can follow one or both of two approaches: 
+Our tutorials use Python 3 and NetworkX (2.4 or later). They are in the form of Jupyter Notebooks. To load, view, and run these tutorials, you can follow one or both of two approaches: 
 
 1. There are several free services to run Jupyter notebooks in the cloud at the time of this writing, including:
-  - [Google Colab](https://colab.research.google.com/)
-  - [Binder](https://mybinder.org/)
-  - [Kaggle Kernels](https://www.kaggle.com/kernels)
-  - [Azure Notebooks](https://notebooks.azure.com/)
-  - [Datalore](https://datalore.io/)
-  - [Gryd](https://gryd.us/)
+   - [Google Colab](https://colab.research.google.com/)
+   - [Binder](https://mybinder.org/)
+   - [Kaggle Kernels](https://www.kaggle.com/kernels)
+   - [Azure Notebooks](https://notebooks.azure.com/)
+   - [Datalore](https://datalore.io/)
+   - [Gryd](https://gryd.us/)
 
-2. If you wish to run Python locally on your laptop, and don't have Jupyter/IPython installed on your machine, we recommend installing the [Anaconda](https://www.anaconda.com/distribution/) Python distribution with Python 3. This option requires that you are comfortable with managing software packages (i.e., using `pip` or `conda`).
+   Each cloud-based notebook service has [pros and cons](https://www.dataschool.io/cloud-services-for-jupyter-notebook/) and we cannot test them all extensively, so your mileage may vary. You may have to try more than one solution, read documentation, and/or seek support from the providers to install packages. 
 
-Be warned: each cloud-based notebook service has [pros and cons](https://www.dataschool.io/cloud-services-for-jupyter-notebook/) and we cannot test them all extensively, so your mileage may vary. You may have to try more than one solution, read documentation, and/or seek support from the providers to install packages. Local Python installations can present issues, especially on Windows machines. Packages are system dependent. In all cases, we are unable to provide support.
+2. If you wish to run Python locally on your laptop, and don't have Jupyter/IPython installed on your machine, we recommend installing the [Anaconda](https://www.anaconda.com/distribution/) Python distribution with Python 3. This option requires that you are comfortable with managing software packages (i.e., using `pip` or `conda`). Local Python installations can present issues, especially on Windows machines. Packages are system dependent. In all cases, we are unable to provide support.
 
 ## Additional Teaching Resources 
 
