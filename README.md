@@ -53,6 +53,10 @@ Networks pervade all aspects of our lives: networks of friends, communication, c
 
 --Brian Uzzi, Thomas Professor of Management, Northwestern University
 
+> *A First Course in Network Science* by Menczer, Fortunato, and Davis is an easy-to-follow introduction into network science. An accessible text by some of the best-known practitioners of the field, offering a wonderful place to start one's journey into this fascinating field, and its potential applications.
+
+--Albert-László Barabási, Dodge Distinguished Professor of Network Science, Northeastern University
+
 > This is a timely book that comes from authorities in the field of Complex Networks. The book is very well written and represents the state of the art of research in the field. For these reasons, it represents both a reference guide for experts and a great textbook for the students. 
 
 --Guido Caldarelli, Professor of Theoretical Physics, Scuola IMT Alti Studi Lucca
