@@ -75,9 +75,9 @@ Networks pervade all aspects of our lives: networks of friends, communication, c
 
 ## Table of Contents
 
-0. Introduction
+0. [Introduction](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/sample/chapters/chapter0.pdf)
 
-1. [Basic Elements](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/sample/chapters/chapter0.pdf) ([Chapter 1 Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%201%20Tutorial.ipynb))
+1. Basic Elements ([Chapter 1 Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%201%20Tutorial.ipynb))
 
 2. Small Worlds ([Chapter 2 Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%202%20Tutorial.ipynb))
 
