@@ -75,29 +75,29 @@ Networks pervade all aspects of our lives: networks of friends, communication, c
 
 ## Table of Contents
 
-0. [Introduction](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/sample/chapters/chapter0.pdf)
+- Chapter 0: [Introduction](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/sample/chapters/chapter0.pdf)
 
-1. Basic Elements ([Chapter 1 Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%201%20Tutorial.ipynb))
+- Chapter 1: Basic Elements ([Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%201%20Tutorial.ipynb))
 
-2. Small Worlds ([Chapter 2 Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%202%20Tutorial.ipynb))
+- Chapter 2: Small Worlds ([Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%202%20Tutorial.ipynb))
 
-3. Hubs ([Chapter 3 Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%203%20Tutorial.ipynb))
+- Chapter 3: Hubs ([Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%203%20Tutorial.ipynb))
 
-4. [Direction & Weights](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/sample/chapters/chapter4.pdf) ([Chapter 4 Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%204%20Tutorial.ipynb))
+- Chapter 4: [Direction & Weights](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/sample/chapters/chapter4.pdf) ([Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%204%20Tutorial.ipynb))
 
-5. Network Models ([Chapter 5 Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%205%20Tutorial.ipynb))
+- Chapter 5: Network Models ([Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%205%20Tutorial.ipynb))
 
-6. Communities ([Chapter 6 Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%206%20Tutorial.ipynb))
+- Chapter 6: Communities ([Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%206%20Tutorial.ipynb))
 
-7. Dynamics ([Chapter 7 Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%207%20Tutorial.ipynb))
+- Chapter 7: Dynamics ([Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%207%20Tutorial.ipynb))
 
-Appendix A - [Python Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Appendix%20-%20Python%20Tutorial.ipynb)
+- Appendix A: [Python Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Appendix%20-%20Python%20Tutorial.ipynb)
 
-Appendix B - NetLogo
+- Appendix B: NetLogo
 
-References
+- References
 
-Index
+- Index
 
 ## A Note about Python, Tutorials, and Jupyter Notebooks
 
