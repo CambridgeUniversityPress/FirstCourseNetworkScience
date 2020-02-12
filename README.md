@@ -115,7 +115,7 @@ Our tutorials use Python 3 and NetworkX (2.4 or later). They are in the form of 
 
 2. If you wish to run Python locally on your laptop, and don't have Jupyter/IPython installed on your machine, we recommend installing the [Anaconda](https://www.anaconda.com/distribution/) Python distribution with Python 3. This option requires that you are comfortable with managing software packages (i.e., using `pip` or `conda`). Local Python installations can present issues, especially on Windows machines. Packages are system dependent. In all cases, we are unable to provide support.
 
-## Additional Teaching Resources 
+## Additional Resources 
 
 * [Dataset files](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/tree/master/datasets)
 
@@ -123,4 +123,4 @@ Our tutorials use Python 3 and NetworkX (2.4 or later). They are in the form of 
 
 * [Sample slides](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/tree/master/sample/slides) (lecture slide decks for **all** chapters can be found on the [textbook website for instructors](https://www.cambridge.org/academic/subjects/physics/statistical-physics/first-course-network-science#resources))
 
-* [Errata](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/issues) (Submit an issue to flag errors in the book)
+* [Errata](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/issues) (submit an issue to flag errors in the book)
