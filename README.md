@@ -119,8 +119,10 @@ Our tutorials use Python 3 and NetworkX (2.4 or later). They are in the form of 
 
 * [Dataset files](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/tree/master/datasets)
 
-* [Solutions to selected exercises](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/sample/Selected_Exercise_Solutions.pdf) (solutions to **all** exercises can be found on the [textbook website for instructors](https://www.cambridge.org/academic/subjects/physics/statistical-physics/first-course-network-science#resources))
+* [Solutions to selected exercises](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/sample/Selected_Exercise_Solutions.pdf) (solutions to **all** exercises can be found on the [textbook website for registered instructors](https://www.cambridge.org/academic/subjects/physics/statistical-physics/first-course-network-science#resources))
 
-* [Sample slides](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/tree/master/sample/slides) (lecture slide decks for **all** chapters can be found on the [textbook website for instructors](https://www.cambridge.org/academic/subjects/physics/statistical-physics/first-course-network-science#resources))
+* [Sample slides](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/tree/master/sample/slides) (lecture slide decks for **all** chapters can be found on the [textbook website for registered instructors](https://www.cambridge.org/academic/subjects/physics/statistical-physics/first-course-network-science#resources))
 
 * [Errata](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/issues) (submit an issue to flag errors in the book)
+
+Note: To access the resources on the CUP textbook website for instructors, one has to request an instructor account by registering and verifying their faculty status.
