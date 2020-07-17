@@ -1,3 +1,5 @@
+[![Untangling Network Science](http://img.youtube.com/vi/GZJgPiuQgcw/hqdefault.jpg)](http://www.youtube.com/watch?v=GZJgPiuQgcw "Untangling Network Science")
+
 # A First Course in Network Science
 
 **Edition:** 1
@@ -20,20 +22,8 @@
 - Graduate
 
 ## Subject Areas
-- network science
-- complexity
-- statistical physics
-- social networks
-- computer science
-- information science
-- brain science 
-- political science
-- communication
-- management
-- mathematics
-- health
-- financial networks
-- biological networks
+
+network science, complexity, statistical physics, social networks, computer science, information science, brain science, political science, communication, management, mathematics, health, financial networks, biological networks
 
 ## Abstract
 
