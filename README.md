@@ -73,7 +73,7 @@ Networks pervade all aspects of our lives: networks of friends, communication, c
 
 - Chapter 3: Hubs ([Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%203%20Tutorial.ipynb))
 
-- Chapter 4: [Direction & Weights](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/sample/chapters/chapter4.pdf) ([Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%204%20Tutorial.ipynb))
+- Chapter 4: [Direction & Weights](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/sample/chapters/chapter4.pdf) ([Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%204%20Tutorial%20(Twitter%20API%20v2).ipynb))
 
 - Chapter 5: Network Models ([Tutorial](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Chapter%205%20Tutorial.ipynb))
 
